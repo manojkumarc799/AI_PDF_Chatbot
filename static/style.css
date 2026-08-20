@@ -1,0 +1,47 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.answer-box {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    padding: 20px;
+    white-space: pre-wrap;
+    line-height: 1.6;
+    min-height: 80px;
+}
+
+#loading {
+    color: #6c757d;
+}
+
+
+.answer-box h1,
+.answer-box h2,
+.answer-box h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.answer-box p {
+    margin-bottom: 12px;
+}
+
+.answer-box ul,
+.answer-box ol {
+    padding-left: 25px;
+    margin-bottom: 15px;
+}
+
+.answer-box li {
+    margin-bottom: 6px;
+}
+
+.answer-box strong {
+    font-weight: 700;
+}
